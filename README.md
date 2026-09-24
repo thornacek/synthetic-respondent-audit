@@ -15,13 +15,20 @@ Research teams are being pitched synthetic respondents as a faster, cheaper pane
 - **Discipline.** The rules are committed and tagged (`seal-v1`) before any estimates exist. The git history proves the order. See [PREREGISTRATION.md](PREREGISTRATION.md).
 
 ## Results
-[Pending the sealed run. Charts and numbers go here, with the model ID and run date.]
 
-<!--
+**Run:** claude-haiku-4-5-20251001, September 2026. 120 cells, 3 runs each, 0 parse failures. Full output in [results/summary.md](results/summary.md).
+
+- **Stated uncertainty doesn't hold.** The model's 80% intervals contained the true result 37% of the time (95% CI 29% to 46%). Intervals averaged 10.5 points wide against an average miss of 8.6 points.
+- **It leans high on strong answers.** Estimates overstated the top-box share by 5.1 points on average. Real respondents sit in the middle options more than the model expects.
+- **It's consistent, which makes it look more reliable than it is.** Repeat runs moved 1.6 points on average.
+- **No sign of recalled toplines.** Total-population cells, the most likely to be published, were no easier than subgroup cells (20% vs. 40% coverage, on 20 and 100 cells).
+- **The error drivers explain little** (R² = 0.16). Topic domain carries the largest share of what they do explain.
+
+**Takeaway for a research team:** treat synthetic estimates as a hypothesis to test, not a panel substitute, and don't trust the model's own confidence ranges.
+
 ![Coverage by domain](results/coverage_by_domain.png)
-![Error drivers](results/error_drivers.png)
 ![Estimate vs truth](results/estimate_vs_truth.png)
--->
+![Error drivers](results/error_drivers.png)
 
 ## What this does and doesn't show
 It measures accuracy and calibration on questions with known answers, for one model on one survey. It doesn't tell you whether synthetic data is fit for a specific business decision. It's the kind of check I'd run before letting one near a real study.
