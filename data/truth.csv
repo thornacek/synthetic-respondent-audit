@@ -1,0 +1,121 @@
+item,domain,subgroup,target,n,n_eff,truth_pct,truth_se_pct
+happy,wellbeing,total,very happy,3183,1618.9,23.45,1.05
+health,wellbeing,total,excellent or good,3198,1627.2,72.18,1.11
+satfin,wellbeing,total,pretty well satisfied,3192,1630.0,22.93,1.04
+satjob,wellbeing,total,very satisfied,2185,1125.7,45.34,1.48
+fear,wellbeing,total,yes,2157,1075.8,32.91,1.43
+trust,social_trust,total,most people can be trusted,923,472.0,24.95,1.99
+helpful,social_trust,total,try to be helpful,916,470.2,38.03,2.24
+fair,social_trust,total,would try to be fair,917,467.1,41.75,2.28
+getahead,social_trust,total,hard work most important,961,474.6,65.4,2.18
+conbus,institutions,total,a great deal of confidence,2084,1055.3,15.11,1.1
+conmedic,institutions,total,a great deal of confidence,2100,1066.2,26.4,1.35
+consci,institutions,total,a great deal of confidence,2065,1049.4,36.74,1.49
+conpress,institutions,total,a great deal of confidence,2086,1070.6,7.52,0.81
+contv,institutions,total,a great deal of confidence,2096,1064.2,8.26,0.84
+confinan,institutions,total,a great deal of confidence,2103,1067.0,17.13,1.15
+coneduc,institutions,total,a great deal of confidence,2106,1066.6,20.02,1.23
+conarmy,institutions,total,a great deal of confidence,2096,1063.3,43.22,1.52
+natsci,spending,total,too little,3046,1560.5,40.2,1.24
+natenvir,spending,total,too little,1604,821.3,66.35,1.65
+natroad,spending,total,too little,3146,1597.7,52.25,1.25
+happy,wellbeing,women,very happy,1810,914.8,23.38,1.4
+health,wellbeing,women,excellent or good,1818,917.5,72.31,1.48
+satfin,wellbeing,women,pretty well satisfied,1815,916.9,21.9,1.37
+satjob,wellbeing,women,very satisfied,1225,643.1,45.51,1.96
+fear,wellbeing,women,yes,1232,600.7,41.88,2.01
+trust,social_trust,women,most people can be trusted,514,249.0,17.74,2.42
+helpful,social_trust,women,try to be helpful,513,247.4,37.62,3.08
+fair,social_trust,women,would try to be fair,510,245.0,34.91,3.05
+getahead,social_trust,women,hard work most important,552,252.9,69.03,2.91
+conbus,institutions,women,a great deal of confidence,1159,597.3,13.46,1.4
+conmedic,institutions,women,a great deal of confidence,1171,605.7,24.43,1.75
+consci,institutions,women,a great deal of confidence,1141,589.6,32.7,1.93
+conpress,institutions,women,a great deal of confidence,1160,599.2,7.44,1.07
+contv,institutions,women,a great deal of confidence,1163,602.9,8.79,1.15
+confinan,institutions,women,a great deal of confidence,1171,605.9,19.02,1.59
+coneduc,institutions,women,a great deal of confidence,1176,608.0,20.0,1.62
+conarmy,institutions,women,a great deal of confidence,1163,601.0,39.75,2.0
+natsci,spending,women,too little,1697,865.0,37.13,1.64
+natenvir,spending,women,too little,909,476.7,68.09,2.13
+natroad,spending,women,too little,1781,895.1,46.67,1.67
+happy,wellbeing,men,very happy,1453,757.9,23.28,1.54
+health,wellbeing,men,excellent or good,1460,765.0,71.92,1.62
+satfin,wellbeing,men,pretty well satisfied,1458,765.9,23.53,1.53
+satjob,wellbeing,men,very satisfied,1006,522.5,44.21,2.17
+fear,wellbeing,men,yes,979,507.4,23.26,1.88
+trust,social_trust,men,most people can be trusted,431,234.8,32.39,3.05
+helpful,social_trust,men,try to be helpful,425,234.7,38.19,3.17
+fair,social_trust,men,would try to be fair,429,233.8,48.71,3.27
+getahead,social_trust,men,hard work most important,436,237.3,61.01,3.17
+conbus,institutions,men,a great deal of confidence,964,492.9,16.55,1.67
+conmedic,institutions,men,a great deal of confidence,972,497.7,28.09,2.01
+consci,institutions,men,a great deal of confidence,964,494.3,39.77,2.2
+conpress,institutions,men,a great deal of confidence,966,503.9,7.62,1.18
+contv,institutions,men,a great deal of confidence,974,497.0,7.47,1.18
+confinan,institutions,men,a great deal of confidence,977,499.5,15.11,1.6
+coneduc,institutions,men,a great deal of confidence,972,495.3,19.62,1.78
+conarmy,institutions,men,a great deal of confidence,976,499.3,46.82,2.23
+natsci,spending,men,too little,1424,746.2,42.73,1.81
+natenvir,spending,men,too little,729,376.5,63.32,2.48
+natroad,spending,men,too little,1444,755.1,56.79,1.8
+happy,wellbeing,age18_34,very happy,739,379.8,20.59,2.07
+health,wellbeing,age18_34,excellent or good,740,380.6,75.43,2.21
+satfin,wellbeing,age18_34,pretty well satisfied,740,381.8,16.01,1.88
+satjob,wellbeing,age18_34,very satisfied,643,329.5,34.84,2.62
+fear,wellbeing,age18_34,yes,521,272.1,38.56,2.95
+trust,social_trust,age18_34,most people can be trusted,189,99.9,7.54,2.64
+helpful,social_trust,age18_34,try to be helpful,186,100.8,26.97,4.42
+fair,social_trust,age18_34,would try to be fair,188,99.7,26.86,4.44
+getahead,social_trust,age18_34,hard work most important,206,112.5,60.61,4.61
+conbus,institutions,age18_34,a great deal of confidence,482,241.9,14.69,2.28
+conmedic,institutions,age18_34,a great deal of confidence,483,241.0,28.7,2.91
+consci,institutions,age18_34,a great deal of confidence,476,240.0,38.58,3.14
+conpress,institutions,age18_34,a great deal of confidence,474,244.4,7.21,1.65
+contv,institutions,age18_34,a great deal of confidence,483,241.9,13.4,2.19
+confinan,institutions,age18_34,a great deal of confidence,484,242.1,16.33,2.38
+coneduc,institutions,age18_34,a great deal of confidence,487,244.2,27.01,2.84
+conarmy,institutions,age18_34,a great deal of confidence,481,239.9,42.04,3.19
+natsci,spending,age18_34,too little,710,368.8,37.81,2.53
+natenvir,spending,age18_34,too little,386,199.6,78.12,2.93
+natroad,spending,age18_34,too little,731,376.1,37.82,2.5
+happy,wellbeing,age55plus,very happy,1390,723.9,24.92,1.61
+health,wellbeing,age55plus,excellent or good,1396,726.1,70.43,1.69
+satfin,wellbeing,age55plus,pretty well satisfied,1393,728.4,31.11,1.72
+satjob,wellbeing,age55plus,very satisfied,577,299.3,55.58,2.87
+fear,wellbeing,age55plus,yes,936,482.7,30.18,2.09
+trust,social_trust,age55plus,most people can be trusted,444,228.8,33.16,3.11
+helpful,social_trust,age55plus,try to be helpful,443,226.8,46.89,3.31
+fair,social_trust,age55plus,would try to be fair,445,228.2,53.49,3.3
+getahead,social_trust,age55plus,hard work most important,469,234.7,66.61,3.08
+conbus,institutions,age55plus,a great deal of confidence,912,465.7,15.69,1.69
+conmedic,institutions,age55plus,a great deal of confidence,923,473.8,26.54,2.03
+consci,institutions,age55plus,a great deal of confidence,903,463.1,37.75,2.25
+conpress,institutions,age55plus,a great deal of confidence,922,471.3,8.37,1.28
+contv,institutions,age55plus,a great deal of confidence,920,471.4,7.0,1.18
+confinan,institutions,age55plus,a great deal of confidence,925,473.6,19.18,1.81
+coneduc,institutions,age55plus,a great deal of confidence,923,471.7,16.14,1.69
+conarmy,institutions,age55plus,a great deal of confidence,921,472.8,46.45,2.29
+natsci,spending,age55plus,too little,1320,698.7,41.46,1.86
+natenvir,spending,age55plus,too little,678,360.5,59.34,2.59
+natroad,spending,age55plus,too little,1373,713.3,62.49,1.81
+happy,wellbeing,ba_plus,very happy,1190,610.7,26.17,1.78
+health,wellbeing,ba_plus,excellent or good,1193,615.2,82.46,1.53
+satfin,wellbeing,ba_plus,pretty well satisfied,1191,611.9,34.2,1.92
+satjob,wellbeing,ba_plus,very satisfied,851,439.2,48.7,2.39
+fear,wellbeing,ba_plus,yes,793,399.9,29.32,2.28
+trust,social_trust,ba_plus,most people can be trusted,252,145.3,39.81,4.06
+helpful,social_trust,ba_plus,try to be helpful,250,143.4,43.73,4.14
+fair,social_trust,ba_plus,would try to be fair,253,145.4,54.94,4.13
+getahead,social_trust,ba_plus,hard work most important,266,147.7,50.78,4.11
+conbus,institutions,ba_plus,a great deal of confidence,790,407.6,16.53,1.84
+conmedic,institutions,ba_plus,a great deal of confidence,791,408.6,29.91,2.27
+consci,institutions,ba_plus,a great deal of confidence,786,406.0,46.13,2.47
+conpress,institutions,ba_plus,a great deal of confidence,788,406.3,9.21,1.43
+contv,institutions,ba_plus,a great deal of confidence,788,406.8,4.0,0.97
+confinan,institutions,ba_plus,a great deal of confidence,790,407.6,20.23,1.99
+coneduc,institutions,ba_plus,a great deal of confidence,788,406.4,18.42,1.92
+conarmy,institutions,ba_plus,a great deal of confidence,786,405.5,42.78,2.46
+natsci,spending,ba_plus,too little,1159,595.3,45.66,2.04
+natenvir,spending,ba_plus,too little,594,300.4,66.9,2.72
+natroad,spending,ba_plus,too little,1179,604.6,55.25,2.02
