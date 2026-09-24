@@ -6,11 +6,11 @@ Research teams are being pitched synthetic respondents as a faster, cheaper pane
 
 ## Design at a glance
 - **Ground truth.** GSS 2024 (NORC), weighted, with 20 items across wellbeing, social trust, confidence in institutions, and spending priorities.
-- **Cells.** 20 items × 6 subgroups = 120 cells, each with a weighted percentage and a standard error.
+- **Cells.** 20 items × 6 subgroups = 120 weighted cells, each with a percentage and a standard error.
 - **The ask.** For each cell, the model gives a best estimate and an 80% interval. There are 3 independent calls per cell.
 - **Scoring.**
   - Interval coverage against the promised 80%, with Wilson CIs.
-  - Absolute error, and run-to-run consistency.
+  - Absolute and signed error (does the model overstate the top-box answer?), and run-to-run consistency.
   - A Shapley key driver analysis of what predicts the misses.
 - **Discipline.** The rules are committed and tagged (`seal-v1`) before any estimates exist. The git history proves the order. See [PREREGISTRATION.md](PREREGISTRATION.md).
 
